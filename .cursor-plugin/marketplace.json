@@ -1,0 +1,14 @@
+{
+  "name": "rootdata-plugins",
+  "owner": {
+    "name": "RootData",
+    "email": "contact@rootdata.com"
+  },
+  "plugins": [
+    {
+      "name": "rootdata-crypto",
+      "source": ".",
+      "description": "Research crypto projects, investors, public professional profiles, funding, events, RD and X rankings using RootData records."
+    }
+  ]
+}

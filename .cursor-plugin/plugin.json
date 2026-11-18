@@ -1,0 +1,20 @@
+{
+  "name": "rootdata-crypto",
+  "version": "2.0.0",
+  "description": "Research crypto projects, investors, public professional profiles, funding, events, RD and X rankings using RootData records.",
+  "author": {
+    "name": "RootData",
+    "email": "contact@rootdata.com"
+  },
+  "homepage": "https://www.rootdata.com",
+  "keywords": [
+    "crypto",
+    "web3",
+    "research",
+    "data",
+    "funding"
+  ],
+  "logo": "assets/rootdata-icon.png",
+  "skills": "skills",
+  "repository": "https://github.com/rdquanyu/rootdata-crypto-cursor"
+}
